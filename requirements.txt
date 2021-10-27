@@ -21,7 +21,7 @@ colorama==0.4.4
 colorful==0.5.4
 cycler==0.10.0
 Cython==0.29.22
-dask==2021.2.0
+dask==2021.10.0
 decorator==4.4.2
 defusedxml==0.6.0
 dython==0.6.3
